@@ -2,6 +2,9 @@ __pycache__/
 *.pyc
 venv/
 .env
-data/
+data/*
+!data/benin_clean.csv
+!data/sierraleone_clean.csv
+!data/togo_clean.csv
 *.csv
 .ipynb_checkpoints/
